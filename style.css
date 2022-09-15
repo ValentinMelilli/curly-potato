@@ -1,7 +1,15 @@
 body {
     margin: 0;
-    padding: 1em;
     color: #fff;
     background-color: #333;
-    font-family: fantasy
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+header .site-logo img {
+    width: 2em;
+    height: 2em;
+}
+
+main {
+    padding: 1em;
 }
